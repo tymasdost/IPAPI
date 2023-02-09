@@ -1,70 +1,61 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<strong>Prodavač<strong>
+<br>
+Pojďte všichni dovnitř, pozvěte si všechny známé,<br>
+my vám dobrou radu dáme, neboť právě otvíráme,<br>
+prodáváme, vyděláme, co kdo chcete, tak to máme,<br>
+co nemáme, objednáme, všechno známe, všechno víme,<br>
+poradíme, posloužíme.Stál krámek v naší ulici,<br>
+v něm párky, buřty s hořčicí<br>
+a bonbóny a sýr a sladký mák.<br>
+Tam chodíval jsem potají<br>
+tak, jak to kluci dělají<br>
+a ochutnával od okurek lák.<br>
+A pro mou duši nevinnou<br>
+pan vedoucí byl hrdinou,<br>
+když po obědě začal prodávat.<br>
+Měl jazyk mrštný jako bič<br>
+a já byl z něho celý pryč<br>
+a toužil jsem se prodavačem stát.Pět deka, deset deka, dvacet deka, třicet deka,<br>
+kilo chleba, kilo cukru, jeden rohlík, jedna veka,<br>
+všechno máme, co kdo chcete,<br>
+obchod kvete, jen si račte říct.<br>
+Čtyři kila, deset kilo, dvacet kilo, třicet kilo,<br>
+navážíme, zabalíme, klaníme se, to by bylo,<br>
+prosím pěkně, mohu nechat o jedenáct deka víc?<br>
+Já nezapomněl na svůj cíl<br>
+a záhy jsem se vyučil<br>
+a moh´ bejt ze mě prodavačů král.<br>
+Jenomže, jak běžel čas,<br>
+náhle zaslechl jsem hudby hlas<br>
+a znenadání na jevišti stál.<br>
+I když nejsem králem zpěváků,<br>
+teď zpívám s partou Fešáků<br>
+a nikdo vlastně neví, co jsem zač.<br>
+Mě potlesk hřeje do uší<br>
+a mnohý divák netuší,<br>
+že mu vlastně zpívá prodavač.Pět deka, deset deka, dvacet deka, třicet deka,<br>
+kilo chleba, kilo cukru, jeden rohlík, jedna veka,<br>
+všechno máme, co kdo chcete,<br>
+obchod kvete, jen si račte říct.<br>
+Čtyři kila, deset kilo, dvacet kilo, třicet kilo,<br>
+navážíme, zabalíme, klaníme se, to by bylo,<br>
+prosím pěkně, mohu nechat o jedenáct deka víc?Vím, že se život rozletí<br>
+a sním o konci století,<br>
+kdy nikdo neví,<br>
+co je chvat a skon.<br>
+A dětem líčí babička,<br>
+jak vypadala elpíčka<br>
+a co byl vlastně starý gramofon.<br>
+I kdyby v roce dva tisíce<br>
+byla veta po muzice,<br>
+obchod je věc stále kvetoucí.<br>
+Už se vidím, je to krása,<br>
+ve výloze nápis hlásá:<br>
+Michal Tučný, odpovědný vedoucí.Pět deka, deset deka, dvacet deka, třicet deka,<br>
+kilo chleba, kilo cukru, jeden rohlík, jedna veka,<br>
+všechno máme, co kdo chcete,<br>
+obchod kvete, jen si račte říct.<br>
+Čtyři kila, deset kilo, dvacet kilo, třicet kilo,<br>
+navážíme, zabalíme, klaníme se, to by bylo,<br>
+prosím pěkně, mohu nechat o jedenáct deka víc?<br>
+<img src="https://media.tenor.com/Wd2YvB6IpQcAAAAC/pepe-pepe-cute.gif">
